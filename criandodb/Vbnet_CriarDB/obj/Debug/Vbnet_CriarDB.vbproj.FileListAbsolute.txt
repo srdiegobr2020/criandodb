@@ -1,0 +1,15 @@
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\Vbnet_CriarDB.exe.config
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\Vbnet_CriarDB.exe
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\Vbnet_CriarDB.pdb
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\Vbnet_CriarDB.xml
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\TabControl.dll
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\bin\Debug\TabControl.pdb
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.vbprojAssemblyReference.cache
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.Form1.resources
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.Resources.resources
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.vbproj.GenerateResource.cache
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.vbproj.CoreCompileInputs.cache
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.vbproj.CopyComplete
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.exe
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.xml
+C:\Users\SoftwareS\source\repos\Vbnet_CriarDB\Vbnet_CriarDB\obj\Debug\Vbnet_CriarDB.pdb
